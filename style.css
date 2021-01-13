@@ -1,0 +1,34 @@
+
+.card-measurement{
+    border: 0;
+}
+.picture-sizing{
+  width: 49%;
+}
+
+.img-background{
+  background-color: #0000001f;
+  border-radius: 1em;
+  height: 100%;
+}
+.button{
+ margin-right: 1em;
+ color:#37cd32
+}
+.margin-bottom{
+ margin-bottom: 1em;
+}
+
+.three-items{
+  margin-top: 1em;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 1em;
+}
+ 
+.three-items img{
+  width: 26%;
+}
+.customer img{
+ width: 100%;
+
+}
