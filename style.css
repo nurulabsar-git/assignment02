@@ -32,3 +32,11 @@
  width: 100%;
 
 }
+.my-icon{
+  padding-right: 4px;
+}
+
+.my-background{
+  background-color: #0000001f;
+  border-radius: 1em; 
+}
